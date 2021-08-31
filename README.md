@@ -11,7 +11,7 @@ First cloning this project :
 
 and then run : 
 
-`` $ npm run watch-css `` To see my ui are available
+`` $ npm run css-pro `` To see my ui are available
 
 and **Thanks for reviewing my project <3 :3**
 

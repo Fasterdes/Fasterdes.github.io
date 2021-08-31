@@ -1,3 +1,7 @@
 #kiri { 
-    background-image: url(https://i.ibb.co/Tt5x7BJ/lands.jpg);
+    background-image: url('https://i.ibb.co/Tt5x7BJ/lands.jpg');
+}
+
+#aboutkanan{ 
+    background-image:url('https://nbs.co.id/img/banner-about.jpeg')
 }
